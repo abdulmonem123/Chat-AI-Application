@@ -1,0 +1,26 @@
+🤖 Chat AI Application
+
+A modern, full-stack Chat AI Application built using SmolAgents (Hugging Face) and powered by the Moonshot AI – Kimi-K2.5 model. 
+This application delivers intelligent, context-aware conversations with a clean and responsive user interface.
+
+🚀 Features
+💬 Real-time AI chat interface
+🧠 Context-aware responses using advanced LLM (Kimi-K2.5)
+🤖 Agent-based architecture using Hugging Face SmolAgents
+⚡ Fast and scalable API integration
+🎨 Modern UI built with React & Material UI
+🔄 Seamless frontend-backend communication
+📱 Responsive design
+
+🛠️ Tech Stack
+Frontend
+React.js
+Material UI (MUI)
+JavaScript (ES6+)
+Backend
+Python
+FastAPI / Flask (depending on your setup)
+SmolAgents (Hugging Face)
+
+AI Model
+moonshotai/Kimi-K2.5 (via API)
